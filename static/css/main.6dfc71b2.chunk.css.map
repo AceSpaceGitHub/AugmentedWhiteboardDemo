@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/index.css"],"names":[],"mappings":"AAAA,eACI,YAAa,CACb,aAAc,CACd,wBAAyB,CACzB,gCACJ","file":"main.6dfc71b2.chunk.css","sourcesContent":[".popup-content {\r\n    padding: 10px;\r\n    color: #050505;\r\n    background-color: #fcf7f8;\r\n    border: 1px solid rgba(0,0,0,.05);\r\n}"]}
